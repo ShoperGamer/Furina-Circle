@@ -3,7 +3,7 @@
     width: 180px;
     height: 380px;
     transform-style: preserve-3d;
-    animation: rotate 35s linear infinite;
+    animation: rotate 2s linear infinite; /*ปรับความเร็ว*/
 }
 
 @keyframes rotate{
